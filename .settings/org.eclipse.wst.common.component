@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="HTML">
+        
+    <wb-module deploy-name="HTMLPrograms">
+                
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="HTML"/>
-        <property name="java-output-path" value="/HTML/build/classes"/>
+                
+        <property name="java-output-path" value="/HTMLPrograms/build/classes"/>
+        <property name="context-root" value="HTMLPrograms"/>
+            
     </wb-module>
+    
 </project-modules>
